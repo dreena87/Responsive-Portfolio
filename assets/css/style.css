@@ -216,7 +216,7 @@ input[type=submit] {
   border: 0 none;
 }
 
-@media(max-width: 768px) {
+@media(max-width: 640px) {
 	header #masthead,
   .container,
   #main-container,
